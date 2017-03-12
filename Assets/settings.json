@@ -1,0 +1,9 @@
+{
+  "Population": 20,
+  "GeneSize": 10,
+  "Evolutions": 200,
+  "Mutation": true,
+  "RandomFruitPositions": false,
+  "Visual": true,
+  "Logs": true
+}

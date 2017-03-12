@@ -1,0 +1,37 @@
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+/*.userprefs
+/*.csproj
+/*.pidb
+/*.suo
+/*.sln
+/*.user
+/*.booproj
+
+# =========== #
+# Folders #
+# =========== #
+[Dd]ebug*
+[Rr]elease*
+
+# =============== #
+# Unity generated #
+# =============== #
+![Tt]emp/
+[Tt]emp/*
+
+![Oo]bj/
+[Oo]bj/*
+
+![Bb]uild/
+[Bb]uild/*
+
+![Bb]uilds/
+[Bb]uilds/*
+
+![Ll]ibrary/
+[Ll]ibrary/*
+
+sysinfo.txt
